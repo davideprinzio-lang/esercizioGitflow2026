@@ -1,1 +1,2 @@
 "lista task da svolgere"
+1.completare documentazione
